@@ -1,0 +1,1 @@
+# fibonacci-word-thesis-verification
